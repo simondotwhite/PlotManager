@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="C:/MinecraftServer/plugins/InfinitePlots.jar"/>
+	<classpathentry kind="lib" path="C:/MinecraftServer/plugins/WorldEdit.jar"/>
+	<classpathentry kind="lib" path="C:/MinecraftServer/plugins/WorldGuard.jar"/>
+	<classpathentry kind="lib" path="C:/MinecraftServer/craftbukkit.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
