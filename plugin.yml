@@ -1,0 +1,7 @@
+name: PlotManager
+main: sekonda.Minecraft.PlotManager
+version: 1.06
+description: >
+             PlotManager (originally named InfiniteClaims) is an automatic Plot Management plugin for use with the plugin InfinitePlots.
+depend: [InfinitePlots, WorldGuard]
+commands:
